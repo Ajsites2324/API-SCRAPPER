@@ -10,7 +10,7 @@
   ],
   "repository": "https://github.com/casperteam/zoom",
   "success_url": "https://telegram.dog/SpEcHlDe",
-  "website": "https://github.com/CasperTeam/zoom",
+  "website": "https://github.com/Ajsites2324/zoom",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
